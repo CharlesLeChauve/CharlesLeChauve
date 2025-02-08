@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CharlesLeChauve
 - 👀 I’m mostly interested in Music, Video Games and Writing (in French)
-- 🌱 I’m currently learning web developpement and i'd like to soon create an app which would offer a new and more instinctive way to produce music.
+- 🌱 I’m currently learning developpement and i'd like to soon create an app which would offer a new and more instinctive way to produce music.
 
 - 📫 How to reach me ...
 
