@@ -1,11 +1,16 @@
 - 👋 Hi, I’m @CharlesLeChauve
-- 👀 I’m mostly interested in Music, Video Games and Writing (in French)
+- 👀 I’m mostly interested in Programming, Music and Video Games
 - 🌱 I'm currently reaching the end of my cursus at 42 and am actively looking for an internship.
 
 - 📫 How to reach me tgibert@student.42perpignan.fr
 
+<h2>My best projects :</h2>
 
-#Languages :
+[![42webserv](https://github-readme-stats.vercel.app/api/pin/?username=CharlesLeChauve&repo=42webserv&theme=dark)](https://github.com/CharlesLeChauve/42webserv) [![Mnishell](https://github-readme-stats.vercel.app/api/pin/?username=CharlesLeChauve&repo=minitest&theme=dark)](https://github.com/CharlesLeChauve/minitest)
+[![UML Diagram Tool](https://github-readme-stats.vercel.app/api/pin/?username=CharlesLeChauve&repo=UMLProject&theme=dark)](https://github.com/CharlesLeChauve/UMLProject) [![Deckbuilding Card Game](https://github-readme-stats.vercel.app/api/pin/?username=CharlesLeChauve&repo=CardGame&theme=dark)](https://github.com/CharlesLeChauve/CardGame)
+
+
+<h2>Languages :</h2>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a>
